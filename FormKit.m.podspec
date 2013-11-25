@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.dependency 'BWLongTextViewController'
   s.dependency 'ActionSheetPicker2'
-  s.dependency 'BWSelectViewController', :git => "https://github.com/brunow/BWSelectViewController.git"
+  s.dependency 'BWSelectViewController', :git => 'https://github.com/brunow/BWSelectViewController.git'
 end
